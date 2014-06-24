@@ -1,0 +1,10 @@
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\WebServices\bin\Debug\WebServices.exe.config
+C:\Projects\WebServices\WebServices\bin\Debug\WebServices.exe.config
+C:\Projects\WebServices\WebServices\bin\Debug\WebServices.exe
+C:\Projects\WebServices\WebServices\bin\Debug\WebServices.pdb
+C:\Projects\WebServices\WebServices\bin\Debug\WebServices.xml
+C:\Projects\WebServices\WebServices\obj\Debug\WebServices.Resources.resources
+C:\Projects\WebServices\WebServices\obj\Debug\WebServices.vbproj.GenerateResource.Cache
+C:\Projects\WebServices\WebServices\obj\Debug\WebServices.exe
+C:\Projects\WebServices\WebServices\obj\Debug\WebServices.xml
+C:\Projects\WebServices\WebServices\obj\Debug\WebServices.pdb
